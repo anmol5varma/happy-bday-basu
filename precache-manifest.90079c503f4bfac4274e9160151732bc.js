@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/happy-bday-basu/static/media/nirvashi_1.6b5fefbe.jpeg"
   },
   {
-    "revision": "f3dfa281a788cd4cae3c",
+    "revision": "304cb72b085ca63a5771",
     "url": "/happy-bday-basu/static/css/main.b49122d1.chunk.css"
   },
   {
@@ -28,6 +28,14 @@ self.__precacheManifest = [
     "url": "/happy-bday-basu/static/media/amrena_2.d7a8113b.jpeg"
   },
   {
+    "revision": "e0a5a70a276eeafc075cc5dd47accd97",
+    "url": "/happy-bday-basu/static/media/archit_1.e0a5a70a.jpeg"
+  },
+  {
+    "revision": "92b929330b7be8b94101932f8255abe3",
+    "url": "/happy-bday-basu/static/media/archit_2.92b92933.jpeg"
+  },
+  {
     "revision": "b042356bf784518e425bbcaf1cb27fb4",
     "url": "/happy-bday-basu/static/media/atyam_1.b042356b.png"
   },
@@ -38,6 +46,10 @@ self.__precacheManifest = [
   {
     "revision": "81cc1787cc6e0682dd3261b24d851537",
     "url": "/happy-bday-basu/static/media/aunty_1.81cc1787.jpeg"
+  },
+  {
+    "revision": "b7912b4ec7934dc6fe22d39952642a36",
+    "url": "/happy-bday-basu/static/media/bhaiyu_1.b7912b4e.jpeg"
   },
   {
     "revision": "5a6af29a7330c46f57ce18c326051b90",
@@ -80,8 +92,8 @@ self.__precacheManifest = [
     "url": "/happy-bday-basu/static/media/niku_2.fa7b0a4e.jpeg"
   },
   {
-    "revision": "f3dfa281a788cd4cae3c",
-    "url": "/happy-bday-basu/static/js/main.f3dfa281.chunk.js"
+    "revision": "304cb72b085ca63a5771",
+    "url": "/happy-bday-basu/static/js/main.304cb72b.chunk.js"
   },
   {
     "revision": "cc3e2b09763f23f8b00c852b20ff6c0d",
@@ -110,6 +122,14 @@ self.__precacheManifest = [
   {
     "revision": "af073498f83aaf30168f98972b8ebe3c",
     "url": "/happy-bday-basu/static/media/rohan_2.af073498.jpeg"
+  },
+  {
+    "revision": "74eb643661dd0f8808e47e436711b12d",
+    "url": "/happy-bday-basu/static/media/sago_1.74eb6436.jpeg"
+  },
+  {
+    "revision": "8aff149048e53b5d37c2e70e4ff9c0a1",
+    "url": "/happy-bday-basu/static/media/saheli_1.8aff1490.jpeg"
   },
   {
     "revision": "2c0be43268a4deb9a8e0766ab4937ebd",
@@ -160,7 +180,11 @@ self.__precacheManifest = [
     "url": "/happy-bday-basu/static/media/yogesh_1.a07d11c3.jpeg"
   },
   {
-    "revision": "6a9f4dfe6b81b7bcde1e16ae7690de7d",
+    "revision": "d151d1680772b7f623cf2b749db4477b",
+    "url": "/happy-bday-basu/static/media/yogesh_2.d151d168.jpeg"
+  },
+  {
+    "revision": "2106b9bd81d7071618029e2238fc06ca",
     "url": "/happy-bday-basu/index.html"
   }
 ];
