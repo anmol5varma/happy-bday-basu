@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "f6712c34e3b1f46c245e09cc997c417b",
-    "url": "/happy-bday-basu/static/media/nans_1.f6712c34.jpeg"
+    "revision": "580a46e13207f28ef295c214371e8f8f",
+    "url": "/happy-bday-basu/static/media/nans_2.580a46e1.jpeg"
   },
   {
-    "revision": "28ab577383d5f38a6bdf",
+    "revision": "fa8c26fc18589c45ba14",
     "url": "/happy-bday-basu/static/css/main.b49122d1.chunk.css"
   },
   {
@@ -36,16 +36,40 @@ self.__precacheManifest = [
     "url": "/happy-bday-basu/static/media/atyam_2.d03ee6a6.jpeg"
   },
   {
-    "revision": "28ab577383d5f38a6bdf",
-    "url": "/happy-bday-basu/static/js/main.28ab5773.chunk.js"
+    "revision": "de5fed40c025bd4aae0b3a4bf78c34b9",
+    "url": "/happy-bday-basu/static/media/booti_2.de5fed40.jpeg"
   },
   {
-    "revision": "580a46e13207f28ef295c214371e8f8f",
-    "url": "/happy-bday-basu/static/media/nans_2.580a46e1.jpeg"
+    "revision": "8fa065ac600c4b079949da77286b90db",
+    "url": "/happy-bday-basu/static/media/ishani_1.8fa065ac.jpeg"
+  },
+  {
+    "revision": "97a7990136ff11c38d9d49f8f23d7bd5",
+    "url": "/happy-bday-basu/static/media/ishani_2.97a79901.jpeg"
+  },
+  {
+    "revision": "f6712c34e3b1f46c245e09cc997c417b",
+    "url": "/happy-bday-basu/static/media/nans_1.f6712c34.jpeg"
+  },
+  {
+    "revision": "fa8c26fc18589c45ba14",
+    "url": "/happy-bday-basu/static/js/main.fa8c26fc.chunk.js"
   },
   {
     "revision": "fa7b0a4e7e8b67b2c093add2b85683fd",
     "url": "/happy-bday-basu/static/media/niku_2.fa7b0a4e.jpeg"
+  },
+  {
+    "revision": "273468294778d04aaec3dffead1aaefb",
+    "url": "/happy-bday-basu/static/media/pendam_2.27346829.jpeg"
+  },
+  {
+    "revision": "d7219727a94e63e0fa11132846c0517d",
+    "url": "/happy-bday-basu/static/media/rohan_1.d7219727.jpeg"
+  },
+  {
+    "revision": "af073498f83aaf30168f98972b8ebe3c",
+    "url": "/happy-bday-basu/static/media/rohan_2.af073498.jpeg"
   },
   {
     "revision": "fd2e65df2f34f7923249595959eaa2e5",
@@ -72,7 +96,11 @@ self.__precacheManifest = [
     "url": "/happy-bday-basu/static/media/sparsh_2.10aaa67a.jpeg"
   },
   {
-    "revision": "f97162f1ae46a7c1c2ac9eab3e9d6809",
+    "revision": "a07d11c3ef08d8c463784ae4543d5f1f",
+    "url": "/happy-bday-basu/static/media/yogesh_1.a07d11c3.jpeg"
+  },
+  {
+    "revision": "e6d7527d61a4bbd469447abfa32e48a4",
     "url": "/happy-bday-basu/index.html"
   }
 ];
