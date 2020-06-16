@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "580a46e13207f28ef295c214371e8f8f",
-    "url": "/happy-bday-basu/static/media/nans_2.580a46e1.jpeg"
+    "revision": "6b5fefbee879cc01b23363f26972fafc",
+    "url": "/happy-bday-basu/static/media/nirvashi_1.6b5fefbe.jpeg"
   },
   {
-    "revision": "c1a5f60a65a97a2e5ff2",
+    "revision": "f3dfa281a788cd4cae3c",
     "url": "/happy-bday-basu/static/css/main.b49122d1.chunk.css"
   },
   {
@@ -36,6 +36,18 @@ self.__precacheManifest = [
     "url": "/happy-bday-basu/static/media/atyam_2.d03ee6a6.jpeg"
   },
   {
+    "revision": "81cc1787cc6e0682dd3261b24d851537",
+    "url": "/happy-bday-basu/static/media/aunty_1.81cc1787.jpeg"
+  },
+  {
+    "revision": "5a6af29a7330c46f57ce18c326051b90",
+    "url": "/happy-bday-basu/static/media/bhayu_1.5a6af29a.jpeg"
+  },
+  {
+    "revision": "67042062a111b54b8dc35b633c380166",
+    "url": "/happy-bday-basu/static/media/bhayu_2.67042062.jpeg"
+  },
+  {
     "revision": "de5fed40c025bd4aae0b3a4bf78c34b9",
     "url": "/happy-bday-basu/static/media/booti_2.de5fed40.jpeg"
   },
@@ -52,16 +64,44 @@ self.__precacheManifest = [
     "url": "/happy-bday-basu/static/media/nans_1.f6712c34.jpeg"
   },
   {
-    "revision": "c1a5f60a65a97a2e5ff2",
-    "url": "/happy-bday-basu/static/js/main.c1a5f60a.chunk.js"
+    "revision": "580a46e13207f28ef295c214371e8f8f",
+    "url": "/happy-bday-basu/static/media/nans_2.580a46e1.jpeg"
+  },
+  {
+    "revision": "1981d6dadaeb9352f51728134705aff8",
+    "url": "/happy-bday-basu/static/media/neha_1.1981d6da.jpeg"
+  },
+  {
+    "revision": "849aaf67d80bf4bacb42fac27c72991d",
+    "url": "/happy-bday-basu/static/media/neha_2.849aaf67.jpeg"
   },
   {
     "revision": "fa7b0a4e7e8b67b2c093add2b85683fd",
     "url": "/happy-bday-basu/static/media/niku_2.fa7b0a4e.jpeg"
   },
   {
+    "revision": "f3dfa281a788cd4cae3c",
+    "url": "/happy-bday-basu/static/js/main.f3dfa281.chunk.js"
+  },
+  {
+    "revision": "cc3e2b09763f23f8b00c852b20ff6c0d",
+    "url": "/happy-bday-basu/static/media/nirvashi_2.cc3e2b09.jpeg"
+  },
+  {
+    "revision": "4ee0393d1b5a8b86cafb7a0193c47b9b",
+    "url": "/happy-bday-basu/static/media/pendam_1.4ee0393d.jpeg"
+  },
+  {
     "revision": "273468294778d04aaec3dffead1aaefb",
     "url": "/happy-bday-basu/static/media/pendam_2.27346829.jpeg"
+  },
+  {
+    "revision": "f4f0c195c113e7b9cf8c6c32c897fb0b",
+    "url": "/happy-bday-basu/static/media/prerit_1.f4f0c195.jpeg"
+  },
+  {
+    "revision": "58bcf91c1bcb95a2001e71cc30cf9294",
+    "url": "/happy-bday-basu/static/media/prerit_2.58bcf91c.jpeg"
   },
   {
     "revision": "d7219727a94e63e0fa11132846c0517d",
@@ -70,6 +110,14 @@ self.__precacheManifest = [
   {
     "revision": "af073498f83aaf30168f98972b8ebe3c",
     "url": "/happy-bday-basu/static/media/rohan_2.af073498.jpeg"
+  },
+  {
+    "revision": "2c0be43268a4deb9a8e0766ab4937ebd",
+    "url": "/happy-bday-basu/static/media/sanya_1.2c0be432.jpeg"
+  },
+  {
+    "revision": "0deaa1b88e2dab26abb5fb115db6ba71",
+    "url": "/happy-bday-basu/static/media/sanya_2.0deaa1b8.jpeg"
   },
   {
     "revision": "fd2e65df2f34f7923249595959eaa2e5",
@@ -84,8 +132,8 @@ self.__precacheManifest = [
     "url": "/happy-bday-basu/static/media/shreya_1.c204d2ea.jpg"
   },
   {
-    "revision": "d1e937dcd84b056d733d581d76520dc5",
-    "url": "/happy-bday-basu/static/media/shreya_2.d1e937dc.jpeg"
+    "revision": "b0f5c0773352f2c25f6299ed71ddd3ab",
+    "url": "/happy-bday-basu/static/media/shreya_2.b0f5c077.jpg"
   },
   {
     "revision": "d5e57e3083d8b6dc2d6b7bce81272d9a",
@@ -96,11 +144,23 @@ self.__precacheManifest = [
     "url": "/happy-bday-basu/static/media/sparsh_2.10aaa67a.jpeg"
   },
   {
+    "revision": "631ecafd42db92ae10a5afd4794425a5",
+    "url": "/happy-bday-basu/static/media/srishti_1.631ecafd.jpeg"
+  },
+  {
+    "revision": "e7cca4ebce460e337f826d7b34f1c509",
+    "url": "/happy-bday-basu/static/media/srishti_2.e7cca4eb.jpeg"
+  },
+  {
+    "revision": "778a7047821d07d28f7dbf8d8ce744f5",
+    "url": "/happy-bday-basu/static/media/yash_1.778a7047.jpeg"
+  },
+  {
     "revision": "a07d11c3ef08d8c463784ae4543d5f1f",
     "url": "/happy-bday-basu/static/media/yogesh_1.a07d11c3.jpeg"
   },
   {
-    "revision": "dfed83bddafe5062cdb885fd647c9ce7",
+    "revision": "6a9f4dfe6b81b7bcde1e16ae7690de7d",
     "url": "/happy-bday-basu/index.html"
   }
 ];
