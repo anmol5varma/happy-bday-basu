@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/happy-bday-basu/precache-manifest.90079c503f4bfac4274e9160151732bc.js"
+  "/happy-bday-basu/precache-manifest.70c30453b503c74b1ead7909082c4ede.js"
 );
 
 workbox.clientsClaim();

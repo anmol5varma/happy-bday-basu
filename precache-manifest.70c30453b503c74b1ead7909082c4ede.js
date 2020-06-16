@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/happy-bday-basu/static/media/nirvashi_1.6b5fefbe.jpeg"
   },
   {
-    "revision": "304cb72b085ca63a5771",
+    "revision": "e853e72f6d679649abe8",
     "url": "/happy-bday-basu/static/css/main.b49122d1.chunk.css"
   },
   {
@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "/happy-bday-basu/static/media/niku_2.fa7b0a4e.jpeg"
   },
   {
-    "revision": "304cb72b085ca63a5771",
-    "url": "/happy-bday-basu/static/js/main.304cb72b.chunk.js"
+    "revision": "e853e72f6d679649abe8",
+    "url": "/happy-bday-basu/static/js/main.e853e72f.chunk.js"
   },
   {
     "revision": "cc3e2b09763f23f8b00c852b20ff6c0d",
@@ -184,7 +184,7 @@ self.__precacheManifest = [
     "url": "/happy-bday-basu/static/media/yogesh_2.d151d168.jpeg"
   },
   {
-    "revision": "2106b9bd81d7071618029e2238fc06ca",
+    "revision": "fadf4fa0fff4d5fa6a70781137e975b9",
     "url": "/happy-bday-basu/index.html"
   }
 ];
